@@ -13,6 +13,9 @@
         c.closePath();
         c.fill();
     }
+    // wheels
+    rounded(48, 20, 10, 10, 6);
+    rounded(62, 14, 10, 10, 6);
     // rail
     c.beginPath();
     c.moveTo(111, 17);
@@ -21,10 +24,6 @@
     c.lineTo(8, 56);
     c.closePath();
     c.fill();
-    // left wheel
-    rounded(48, 20, 10, 10, 6);
-    // right wheel
-    rounded(62, 14, 10, 10, 6);
     // post
     c.beginPath();
     c.moveTo(60, 60);
@@ -33,10 +32,10 @@
     c.lineTo(65, 60);
     c.closePath();
     c.fill();
-    // basket
+    // tram
     rounded(31, 60, 61, 45, 5);
     // windows
-    c.fillStyle = "#fff";
+    c.fillStyle = '#fff';
     rounded(34, 66, 15, 15, 2);
     rounded(54, 66, 15, 15, 2);
     rounded(74, 66, 15, 15, 2);
