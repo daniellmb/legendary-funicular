@@ -1,6 +1,6 @@
 # Legendary Funicular
 
-A legendary funicular created using JavaScript and the HTML5 &lt;canvas&gt; tag.
+A legendary funicular created using just 0.2 KB of JavaScript and the HTML5 &lt;canvas&gt; tag.
 
 ![Legendary Funicular](https://github.com/daniellmb/legendary-funicular/blob/master/funicular.png)
 
